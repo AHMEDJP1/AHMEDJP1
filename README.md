@@ -39,6 +39,7 @@
 * ✅ TOEIC 710   📌Preparing for:800+
 * ✅ AI Certification (AI検定)
 * 📌 Preparing for: FE (基本情報技術者試験)
+* IT Passport (Reattempting after prior attempt)
 ---
 ### 🤝 Let's Connect!
 * 💬 Ask me about: Programming, AI, or studying in Japan
