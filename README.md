@@ -55,7 +55,7 @@
 ### 📈 Certifications
 
 * ✅ Japanese Language Proficiency Test N1
-* ✅ TOEIC 710   Preparing for:800+
+* ✅ TOEIC 710   📌Preparing for:800+
 * ✅ AI Certification (AI検定)
 * 📌 Preparing for: FE (基本情報技術者試験)
 
